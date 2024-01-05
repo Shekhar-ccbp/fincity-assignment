@@ -1,0 +1,38 @@
+.about-img {
+  width: 777px;
+  height: 877px;
+}
+
+.about-btn-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.about-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 20vw;
+}
+
+.about-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 100px;
+  width: 30vw;
+  height: 408px;
+  top: 111px;
+  left: 120px;
+  padding: 400px;
+  gap: 12px;
+  padding-left: 100px;
+}
+
+.bg-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 500px;
+}
